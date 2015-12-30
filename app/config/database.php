@@ -73,7 +73,6 @@ return array(
 		),
 
 		
-		// essai 
 		
 		
 		//fin essai
