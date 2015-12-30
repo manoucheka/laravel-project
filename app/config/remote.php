@@ -29,9 +29,9 @@ return array(
 	'connections' => array(
 
 		'production' => array(
-			'host'      => '45.55.47.47',
-			'username'  => 'ywsaqmfwnf',
-			'password'  => 'W6ZUHrN7QP',
+			'host'      => '159.203.122.107',
+			'username'  => 'master_deaednfsag',
+			'password'  => 'G2qAEjdf',
 			'key'       => '',
 			'keyphrase' => '',
 			'root'      => '/lragon/www',

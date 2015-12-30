@@ -56,14 +56,14 @@ return array(
 			'driver'    => 'mysql',
 			
 			//'host'      => '127.0.0.1',
-			'host'      => '45.55.47.47',
+			'host'      => '159.203.122.107',
 			
 			//'database'  => 'ecomm',
-			'database'  => 'yccquzfguk',
+			'database'  => 'cuepnxjzqn',
 			
-			'username'  => 'yccquzfguk',
+			'username'  => 'cuepnxjzqn',
 			
-			'password'  => '8XStywnY38',
+			'password'  => 'FQnhWg3mNR',
 			
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
